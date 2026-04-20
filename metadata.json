@@ -1,0 +1,5 @@
+{
+  "name": "沉浸式雨天日记本",
+  "description": "An atmospheric editor simulating rain on a glass window with realistic physics, allowing users to upload custom backgrounds.",
+  "requestFramePermissions": []
+}
